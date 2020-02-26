@@ -1,0 +1,126 @@
+.Logo__Logo__2isxd {
+    margin-top: 5px;
+    margin-bottom:-3px;
+    font-family: Raleway,sans-serif;
+    font-size: 24px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height:1.08;
+    letter-spacing: -.9px;
+  color:#0084ff
+}
+#Logo__Stories__1BXR2 {
+    margin: 0;
+    object-fit: contain;
+    font-family: Raleway,sans-serif;
+    font-size: .85em;
+    font-weight: 500;
+    font-style: italic;
+    font-stretch: normal;
+    letter-spacing: .9px;
+    color: #000;
+    margin-left:-55px
+}
+header{
+  text-align:center;
+  background-color:white;
+  padding:10px;
+}
+.blog-card
+{
+    width: 250px;
+	border: 1px solid #0096ff;
+	border-radius: 8px;
+  
+}
+.img{
+    width: 250px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+.inner{
+  padding :20px;
+}
+.para{
+  font-weight:100;
+  font-family: Raleway;
+}
+
+
+h1{
+  font-family: Raleway,sans-serif;
+}
+img{
+  height:180px;
+  width:310px;
+}
+
+
+#mainbody{
+  margin-left:60px;
+  width:80%;
+}
+hr{
+  margin:0px;
+  border:0.5px solid #bdc9b7;
+}
+
+td{
+  padding:10px
+}
+button{
+  outline:none;
+  border:1px solid #0084ff;
+  border-radius:15px;
+  color:#0084ff;
+  background-color:#f2f6ff;
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:5px;
+  padding-bottom:5px;
+  margin-right:5px;
+  margin-bottom:10px
+}
+#btn{
+  color:white;
+  background-color:#0084ff;
+}
+table{
+  margin-left:-10px;
+}
+
+.fotter{
+    width: 100%;
+    background-color: #172746;
+    height: 300px;
+    position: relative;
+}
+.fotter .footer-bottom{
+    height: 50px;
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    bottom: 0px;
+    left: 0px;
+    padding-top: 20px;
+    color: #fff;
+    background: #131e52;
+}
+.blog-page{
+    width: 60%;
+    height: 100%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+	border: 1px solid #0096ff;
+	border-radius: 8px;
+
+}
+.img-on-page{
+    height: 100%;
+    width: 100%;
+    border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
